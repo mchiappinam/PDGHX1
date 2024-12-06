@@ -1,0 +1,10 @@
+name: PDGHX1
+main: me.mchiappinam.pdghx1.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+depends: Vault
+commands:
+   x1:
+      description: Info.
+      usage: /<command>
